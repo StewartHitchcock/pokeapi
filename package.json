@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "vite build --watch"
+    },
+    "devDependencies": {
+        "@originjs/vite-plugin-commonjs": "^1.0.3",
+        "axios": "^1.3.4",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@vitejs/plugin-vue": "^4.0.0",
+        "bootstrap": "^5.2.3",
+        "bootstrap-vue": "^2.23.1",
+        "bootstrap-vue-3": "^0.5.1",
+        "vue": "^3.2.47",
+        "vue-axios": "^3.5.2",
+        "vue-loader": "^17.0.1",
+        "vue-pagination-tw": "^0.1.2"
+    }
+}
